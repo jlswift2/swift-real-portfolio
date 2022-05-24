@@ -9,7 +9,6 @@ function App() {
       <Routes>
         <Route path="/"> 
           <Route index element={<Home />} />
-          <Route path='about' element={<About />} />
           <Route path='resume' element={<Resume />} />
         </Route>
       </Routes>
