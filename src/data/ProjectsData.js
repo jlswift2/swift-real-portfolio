@@ -1,8 +1,13 @@
+import Bite from "../../public/images/BITE.png"
+import Bubbles from "../../public/images/Bubbles.png"
+import Postcard from "../../public/images/Postcard.png"
+import BYOB from "../../public/images/BYOB.jpg"
+
 export const projects = [
     {
         name: "Build Your Own Book",
         summary: "A full-stack recipe storing and sharing application equipped with highly customizable input forms, robust search tools, and secure account encryption.",
-        img: "",
+        img: BYOB,
         languages: [
             "Ruby on Rails",
             "ReactJS",
@@ -17,7 +22,7 @@ export const projects = [
     {
         name: "Postcard Generator",
         summary: "Postcard Generator is a free service dedicated to providing individuals in hospitals or assisted-living facilities with uplifting cards from caring individuals across the globe.",
-        img: "",
+        img: Postcard,
         languages: [
             "Ruby on Rails",
             "ReactJS",
@@ -34,7 +39,7 @@ export const projects = [
     {
         name: "BITE",
         summary: "A user-friendly restaurant menu for business owners",
-        img: "",
+        img: Bite,
         languages: [
             "Ruby",
             "Sinatra",
@@ -49,7 +54,7 @@ export const projects = [
     {
         name: "Bubbles",
         summary: "A social experience to share your thoughts",
-        img: "",
+        img: Bubbles,
         languages: [
             "ReactJS",
             "CSS",
