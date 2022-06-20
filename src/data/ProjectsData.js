@@ -1,7 +1,7 @@
-import Bite from "../../public/images/BITE.png"
-import Bubbles from "../../public/images/Bubbles.png"
-import Postcard from "../../public/images/Postcard.png"
-import BYOB from "../../public/images/BYOB.jpg"
+import Bite from "../images/BITE.PNG"
+import Bubbles from "../images/Bubbles.PNG"
+import Postcard from "../images/Postcard.PNG"
+import BYOB from "../images/BYOB.jpg"
 
 export const projects = [
     {
