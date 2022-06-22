@@ -2,7 +2,9 @@ import React from 'react'
 
 function Project({ proj }) {
   return (
-    <div>{proj.name}</div>
+    <div>
+        {proj.name}
+    </div>
   )
 }
 
